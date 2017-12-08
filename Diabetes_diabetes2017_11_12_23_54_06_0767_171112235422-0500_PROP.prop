@@ -1,0 +1,26 @@
+NUM_COLUMNS	20
+1	STRING
+2	NUMBER
+3	NUMBER
+4	NUMBER
+5	NUMBER
+6	NUMBER
+7	STRING
+8	NUMBER
+9	STRING
+10	NUMBER
+11	NUMBER
+12	STRING
+13	NUMBER
+14	NUMBER
+15	NUMBER
+16	NUMBER
+17	NUMBER
+18	NUMBER
+19	NUMBER
+20	STRING
+START_ROW	2
+END_ROW	404
+RELATION	id@id_Drug@Drug;id@id_location_1@location_1;id@id_gender@gender;id@id_frame@frame;
+NODE_PROP	id%stab_glu;id%weight;id%bp_1s;id%bp_2s;id%chol;id%hip;id%time_ppn;id%glyhb;id%hdl;id%bp_2d;id%waist;id%bp_1d;id%age;id%ratio;id%height;
+RELATION_PROP	 
